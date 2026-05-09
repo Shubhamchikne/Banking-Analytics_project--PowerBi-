@@ -1,0 +1,6 @@
+Analyzed 100K+ customer transactions and financial datasets (loans, deposits); built 360° customer analytics suite
+Developed dashboards tracking loan portfolio health (NPL), KYC compliance, branch performance, improving accuracy by 20%
+Performed data cleaning, transformation, validation using SQL & Python; achieved 95%+ data accuracy
+Implemented efficient data models and optimized queries improving dashboard performance by 20–25%
+Identified customer segmentation patterns through cohort analysis; improved analytical insights by 15%
+Reduced manual reporting effort by 30–40% through ETL automation and structured reporting frameworks
